@@ -159,7 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Joann Vuong
 Justin Majetich - [Github](https://github.com/justinmajetich) / [Twitter]((https://twitter.com/JustinMajetich)
 Mitchell Moscovics - [Github](https://github.com/mmoscovics) /
-Mohamed Derfoufi - [GitHub](https://github.com/Alogyn) /
+Mohamed Derfoufi - [GitHub](https://github.com/Alogyn) / Hajar Harakat - [GitHub](https://github.com/HajarHarakat)
 
 ## License
 Public Domain. No copy write protection. 
