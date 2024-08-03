@@ -158,7 +158,8 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 Joann Vuong
 Justin Majetich - [Github](https://github.com/justinmajetich) / [Twitter]((https://twitter.com/JustinMajetich)
-Mitchell Moscovics - [Github](https://github.com/mmoscovics) / 
+Mitchell Moscovics - [Github](https://github.com/mmoscovics) /
+Mohamed Derfoufi - [GitHub](https://github.com/Alogyn) /
 
 ## License
 Public Domain. No copy write protection. 
